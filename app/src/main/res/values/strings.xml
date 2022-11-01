@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">APP_CRUD</string>
+    <string name="model">Modelo</string>
+    <string name="velocity">Velocidad</string>
+    <string name="new_car">Nuevo vehículo</string>
+    <string name="edit_car">Editar vehículo</string>
+    <string name="details_car">Detalles del vehículo</string>
+    <string name="add">Agregar</string>
+    <string name="update">Actualizar</string>
+    <string name="updated">Actualizado</string>
+    <string name="km">Km recorridos</string>
+    <string name="success_db">La DB fué creada exitosamente</string>
+    <string name="error_db">La DB tuvó un error al crearse</string>
+    <string name="field_request">Campo obligatorio</string>
+    <string name="please_request_fields">Favor de llenar los campos</string>
+    <string name="success_register">Registro exitoso</string>
+    <string name="error_register">Erro al crear registro</string>
+    <string name="error_register_updated">Erro al actualizar registro</string>
+    <string name="destroy_success">Registro eliminado exitosamente</string>
+    <string name="destroy_error">No se pudo realizar la eliminación</string>
+    <string name="cancel">Cancelar</string>
+    <string name="confirmation">Confirmación</string>
+    <string name="accept">Aceptar</string>
+</resources>
